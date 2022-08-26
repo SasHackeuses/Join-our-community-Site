@@ -1,0 +1,107 @@
+body{
+    
+    background-color: hsl(204, 43%, 93%);
+    font-family:'Segoe UI', sans-serif
+    
+    }
+    h2{
+    font-size: 25px;
+    font-weight:700;
+    color: hsl(179, 62%, 43%);
+    }
+    
+    h3{
+    font-size: 16px;
+    
+    }
+    p{
+    font-size: 14px;
+    
+    }
+    .section{
+    width: 50%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+            }
+        .top-container{
+            background-color: white;
+            padding: 20px 0;
+            text-align: left;
+            padding-left: 50px;
+            border-radius: 10px 10px 0 0;
+            }
+             .twoSides{
+                display:flex; 
+                text-align: left;
+            }
+            .left-side{
+                background-color: hsl(179, 62%, 43%);
+                width: 50%;
+                padding-top: 20px;
+                padding-bottom: 80px;
+                padding-left: 30px;
+                border-radius: 0 0 0 10px;
+                
+                }
+           .right-side{
+            padding-left: 30px;
+                    padding-top: 20px;
+                    padding-bottom: 70px;
+                    left: 50%;
+                    width: 50%;
+                    background-color: hsl(179, 62%, 48%);
+                    border-radius: 0 0 10px 0;
+                    }
+        
+        .subtitle{
+            color: hsl(71, 73%, 54%);
+        }
+        .description{
+            color: #bfbfbf;
+            font-weight: 700;
+
+        }
+        .title-side{
+            color: white;   
+    }   
+     .price {
+        font-size: 30px;                                                                               
+        font-weight: 700;
+        color: white;
+        margin: 0;
+        display: inline-block;
+        }
+        .explication {
+            color: white;
+            font-weight: lighter;
+            margin: 0;
+            line-height: 1.5;
+            }
+
+            .duration {
+                display: inline-block;
+                font-weight: lighter;
+                color: white;
+                }
+
+                
+                    
+                .butn {
+                        -webkit-border-radius: 5;
+                        -moz-border-radius: 5;
+                        border-radius: 5px;
+                        -webkit-box-shadow: 0 0 4px #666666;
+                        -moz-box-shadow: 0 0 4px #666666;
+                        box-shadow: 0 0 4px #666666;
+                        font-family: 'mery', sans-serif;
+                        color: #ffffff;
+                        font-size: 16px;
+                        background: #c0df34;
+                        padding: 16px 30px 17px 30px;
+                        text-decoration: none;
+                        margin-top: 20px;
+                        display: block;
+                        width: 50%;
+                        text-align: center;
+                    }
+                   
